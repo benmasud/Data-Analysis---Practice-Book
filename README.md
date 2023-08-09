@@ -1,5 +1,5 @@
 # Titanic 
-Variable Notes
+Variable Notes /n 
 pclass: A proxy for socio-economic status (SES)
 1st = Upper
 2nd = Middle
